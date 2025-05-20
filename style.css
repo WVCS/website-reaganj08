@@ -1,3 +1,20 @@
-body {
-
+h3 {
+  color: #F2B5D4p 
 }
+
+body {
+  background-color:#FDE7DF
+
+      }
+      
+   img:hover {
+      width:300px;
+      border: dotted pink 10px;
+     boarder-radius: 70%;
+      
+  }
+      h3:hover {
+        text-decoration: underline wavy pink 20px;
+        font-size: 400%;
+        text-transform: uppercase;
+      }
